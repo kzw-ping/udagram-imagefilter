@@ -24,3 +24,9 @@ Run `eb init` to create a new application and `eb create` a new environment to d
 ### Testing
 
 http://localhost:8082/filteredimage?image_url=https://clipartart.com/images250_/udacity-logo-clipart-5.jpg
+
+### Github link
+https://github.com/kzw-ping/udagram-imagefilter
+
+### EB link
+http://image-filter-service-dev2.us-east-2.elasticbeanstalk.com/filteredimage?image_url=https://clipartart.com/images250_/udacity-logo-clipart-5.jpg
